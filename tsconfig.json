@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "noImplicitUseStrict": true,
+    "target": "es6",
+    "jsx": "react",
+    "lib": ["es2015", "dom"],
+    "importHelpers": true
+  }
+}
